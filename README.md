@@ -1,1 +1,1 @@
-![Wigger](./logo.png)
+![Wigger](./icon.png)
